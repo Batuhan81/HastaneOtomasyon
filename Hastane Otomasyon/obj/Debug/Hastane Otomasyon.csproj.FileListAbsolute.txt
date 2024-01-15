@@ -1,0 +1,96 @@
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe.config
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.pdb
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Form1.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.exe
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.pdb
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Ana_Ekran.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.ObilgileriGüncelle.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.OdaBGetir.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Odalar.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\bin\Debug\ÖzelMetin Kutucuğu.dll
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\bin\Debug\ÖzelMetin Kutucuğu.pdb
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.OdaEkle.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.OdaTeslim.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.YatakTeslim.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.RefEkle.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Yatakbilgileri.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.YatakbilgiGüncelle.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.HastaList.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Ref_Listesi.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Çalısan.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Ameliyathane.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Testİste.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.AmeliyathaneBilgi.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.AmeliyatTeslim.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.ÖlüListesi.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Grafik.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe.config
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.pdb
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\bin\Debug\ÖzelMetin Kutucuğu.pdb
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Ameliyathane.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.AmeliyathaneBilgi.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.AmeliyatTeslim.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Ana_Ekran.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Form1.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Grafik.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.HastaList.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.ObilgileriGüncelle.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.OdaBGetir.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.OdaEkle.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Odalar.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.OdaTeslim.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Ref_Listesi.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.RefEkle.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Testİste.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.YatakbilgiGüncelle.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Yatakbilgileri.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.YatakTeslim.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Çalısan.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.ÖlüListesi.resources
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.exe
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.pdb
+C:\Users\Batuhan\Desktop\Yeni klasör\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.AmeliyatBilgiGüncelle.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe.config
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.pdb
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\bin\Debug\ÖzelMetin Kutucuğu.pdb
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.AmeliyatBilgiGüncelle.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Ameliyathane.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.AmeliyathaneBilgi.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.AmeliyatTeslim.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Ana_Ekran.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Form1.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Grafik.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.HastaList.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.ObilgileriGüncelle.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.OdaBGetir.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.OdaEkle.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Odalar.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.OdaTeslim.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Ref_Listesi.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.RefEkle.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Testİste.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.YatakbilgiGüncelle.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Yatakbilgileri.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.YatakTeslim.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Çalısan.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.ÖlüListesi.resources
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.exe
+C:\Users\Batuhan\Desktop\Bitirme Son Hali\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.pdb
